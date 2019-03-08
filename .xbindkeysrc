@@ -1,0 +1,5 @@
+"bash /home/jack/down_click.sh"
+m:0x0 + c:95
+
+"bash /home/jack/up_click.sh"
+m:0x0 + c:96
